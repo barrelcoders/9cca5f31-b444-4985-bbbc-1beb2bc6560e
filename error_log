@@ -1,0 +1,1 @@
+[13-Dec-2016 21:31:53 America/New_York] PHP Parse error:  syntax error, unexpected 'ajax' (T_STRING), expecting function (T_FUNCTION) in /home/barrelcoders/public_html/projects/travelmanager/protected/controllers/FlightMasterController.php on line 386
